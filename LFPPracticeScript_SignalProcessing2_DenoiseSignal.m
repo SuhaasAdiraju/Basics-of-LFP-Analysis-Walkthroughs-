@@ -1,7 +1,7 @@
 %% Signal Processing practice script 2(denoising your signal)
 %   - this is a practice lfp analysis script using sample LFP data provided by Henry
 %   Hallock. In this script the user will learn to denoise a recorded EEG signal. 
-%       -07/2021 SSA
+%       -07/2021 Written by SSA
 
 %% Running this script, line by line, or section by section, is recommended 
 % additionally if the user is comfortable with the concepts, skip to the
