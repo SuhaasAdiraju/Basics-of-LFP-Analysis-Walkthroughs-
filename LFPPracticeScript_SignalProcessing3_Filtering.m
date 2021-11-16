@@ -1,7 +1,7 @@
 %% Signal Processing practice script 2 (filtering)
 %   - this is a practice lfp analysis script using sample LFP data provided by Henry
 %   Hallock. In this script we will filter our time-scaled and denoised signal. 
-%       -07/2021 SSA
+%       -07/2021 Written by SSA
 
 % Filtering LFP signals is a critical step for assesment and insight of
 % oscillatory/ephysiological signatures during task performance; 
