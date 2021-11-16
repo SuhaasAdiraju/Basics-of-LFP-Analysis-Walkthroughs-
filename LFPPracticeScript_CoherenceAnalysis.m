@@ -1,5 +1,7 @@
 %% COHERENCY
 % Analyze coherency between two signals
+% Written by SSA
+
 %   -using chronux toolbox (free product from chronux website); coherencyc is an
 %   analysis of the coherency between two signals; 
 %       - Use syntax "help _____(function name)" to refer to the definition
