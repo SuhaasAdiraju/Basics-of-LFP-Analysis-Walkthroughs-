@@ -2,7 +2,7 @@
 %   this is a practice lfp analysis script using data provided by Henry
 %   Hallock. In this script the user will learn to load, visualize, and set
 %   an accurate timescale to a recorded EEG signal. 
-%       -07.21 Suhaas S. Adiraju 
+%       -07.21 Written by Suhaas S. Adiraju 
 
 %% load your dataset;
 % couple things of not here; make sure your path is either saved to the
