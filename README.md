@@ -1,2 +1,2 @@
 # Basic-Concepts-of-LFP-Analysis-Walkthroughs-
-Code written for tutorial purposes
+Code written for tutorial purposes. These scripts are sample data based, and use a lot of investigative visualizations etc., meant to aid understanding of the concepts of signal processing. This series is a work and progress, and I will continue to add as I myself learn more of signal processing and temporal analysis methods with field potential recordings!
